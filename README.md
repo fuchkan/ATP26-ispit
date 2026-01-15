@@ -76,13 +76,13 @@ User research is the systematic study of target users and their requirements in 
 
 ## SLIKE i LINKOVI 
 ![Slika 1](1.jpg)
-![Slika 2](2.jpg)
 ![Slika 3](3.jpg)
 
 
 ![link 1](https://www.pexels.com/photo/person-using-macbook-pro-574077/)
-![link 2](https://www.pexels.com/photo/colorful-javascript-code-on-computer-screen-29445973/)
-![link 3](https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/)
+![link 2](https://www.pexels.com/photo/man-working-on-computers-coding-16129724/)
+
+
 
 > ## YOUTUBE :heart:
 > ![User experience design](https://youtu.be/ODpB9-MCa5s?si=lCrcRSGjNrRKZd8e) 
